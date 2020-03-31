@@ -1,4 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://1.bp.blogspot.com/-0XmQaej1xeY/Wpq-eKUTiTI/AAAAAAAAg88/b20aYYofgjgOeSyGUlPTxUEC6-GgSjMTQCLcBGAs/s1600/Spotify-android.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) ![alt text](https://cdn.icon-icons.com/icons2/195/PNG/256/Spotify_23464.png)
 
 # Spotiapp
 
